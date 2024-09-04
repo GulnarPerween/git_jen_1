@@ -65,7 +65,7 @@ public class STEPS extends BASE_CLASS
 
 		WAIT_HELP=new WAIT_HELPER(driver);
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofMinutes(5));
-		logger.info("********LaunchingBrowserSSssS*********");
+		logger.info("********LaunchingBrowserSSssssS*********");
 		
 		
 	}
