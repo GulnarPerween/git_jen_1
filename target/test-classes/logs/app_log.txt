@@ -1,0 +1,12 @@
+INFO    2024-08-21 22:02:19,012 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:02:21,209 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:02:22,481 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 22:02:23,958 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 22:02:24,601 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 22:02:24,966 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 22:02:25,044 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 22:02:25,292 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 22:02:25,311 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 22:02:25,354 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 22:02:25,355 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 22:02:25,360 [main] STEPS.STEPS  - ********closingBrowser********

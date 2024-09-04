@@ -1,0 +1,1112 @@
+INFO    2024-08-21 20:44:29,722 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:44:30,394 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:44:30,747 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 20:44:30,944 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 20:44:31,445 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 20:44:31,888 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 20:44:32,061 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 20:44:32,295 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 20:44:32,437 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 20:44:32,541 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 20:44:32,552 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 20:44:32,656 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 20:44:32,889 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:44:34,388 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:44:35,149 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:44:35,473 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 20:44:35,934 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 20:44:36,423 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 20:44:36,548 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 20:44:36,657 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 20:44:37,003 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 20:44:37,138 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 20:44:37,251 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 20:44:37,264 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 20:44:37,385 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 20:44:37,607 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:44:38,876 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:44:40,008 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:44:40,782 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:44:41,487 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:44:41,592 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:44:41,865 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:44:42,066 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:44:42,190 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:44:42,243 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:44:42,345 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:44:42,355 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:44:42,522 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:44:43,955 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:44:44,981 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:44:45,846 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:44:46,507 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:44:46,608 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:44:47,030 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:44:47,242 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:44:47,360 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:44:47,413 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:44:47,516 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:44:47,528 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:44:47,772 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:44:49,122 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:44:50,054 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:44:50,808 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:44:51,532 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:44:51,659 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:44:51,894 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:44:52,236 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:44:52,483 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:44:52,537 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:44:52,644 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:44:52,656 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:44:52,864 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:44:54,288 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:44:54,855 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:44:55,530 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:44:56,286 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:44:56,380 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:44:56,541 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:44:56,719 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:44:56,799 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:44:56,841 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:44:56,967 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:44:56,977 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:44:57,186 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:47:48,450 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:47:50,529 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:47:50,649 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 20:47:50,977 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 20:47:51,410 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 20:47:51,541 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 20:47:51,639 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 20:47:52,297 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 20:47:52,417 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 20:47:52,536 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 20:47:52,545 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 20:47:52,710 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 20:47:53,072 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:47:54,430 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:47:58,345 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:47:58,473 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 20:47:58,650 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 20:47:59,110 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 20:47:59,525 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 20:47:59,654 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 20:47:59,894 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 20:48:00,030 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 20:48:00,130 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 20:48:00,142 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 20:48:00,245 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 20:48:00,455 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:48:02,058 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:48:08,251 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:48:08,365 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:48:09,111 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:48:09,581 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:48:10,216 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:48:10,521 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:48:10,669 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:48:10,725 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:48:10,866 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:48:10,879 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:48:11,158 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:48:12,362 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:48:19,090 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:48:19,204 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:48:20,208 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:48:20,299 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:48:20,484 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:48:20,669 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:48:20,769 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:48:20,805 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:48:20,902 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:48:20,912 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:48:21,207 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:48:22,428 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:48:28,258 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:48:28,363 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:48:29,059 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:48:29,158 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:48:29,387 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:48:29,573 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:48:29,664 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:48:29,711 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:48:29,820 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:48:29,834 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:48:30,054 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:48:31,362 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:48:34,683 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:48:34,801 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:48:35,669 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:48:35,763 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:48:35,922 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:48:36,108 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:48:36,207 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:48:36,248 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:48:36,336 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:48:36,345 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:48:36,642 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:52:23,283 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:52:23,893 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:52:24,059 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 20:52:24,227 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 20:52:24,894 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 20:52:25,030 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 20:52:25,114 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 20:52:25,289 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 20:52:25,471 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 20:52:25,546 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 20:52:25,554 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 20:52:25,625 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 20:52:25,804 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:52:26,888 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:52:27,728 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:52:27,815 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 20:52:28,112 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 20:52:28,523 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 20:52:28,609 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 20:52:28,687 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 20:52:28,877 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 20:52:29,003 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 20:52:29,074 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 20:52:29,082 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 20:52:29,144 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 20:52:29,298 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:52:30,230 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:52:30,653 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:52:31,344 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:52:32,004 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:52:32,067 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:52:32,382 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:52:32,590 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:52:32,693 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:52:32,722 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:52:32,808 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:52:32,821 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:52:33,017 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:52:34,111 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:52:34,727 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:52:35,356 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:52:35,978 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:52:36,037 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:52:36,169 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:52:36,375 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:52:36,501 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:52:36,539 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:52:36,625 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:52:36,634 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:52:36,809 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:52:37,787 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:52:38,670 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:52:39,266 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:52:40,092 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:52:40,158 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:52:40,310 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:52:40,473 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:52:40,532 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:52:40,559 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:52:40,619 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:52:40,627 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:52:40,830 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 20:52:41,799 [main] STEPS.STEPS  - ********LaunchingBrowser
+INFO    2024-08-21 20:52:42,203 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 20:52:42,881 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 20:52:43,508 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 20:52:43,576 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 20:52:43,906 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 20:52:44,077 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 20:52:44,164 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 20:52:44,195 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 20:52:44,275 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 20:52:44,285 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 20:52:44,456 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:31:18,018 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:31:19,097 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:31:19,470 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:31:19,593 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:31:19,768 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:31:19,892 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:31:20,076 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:31:20,370 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:31:20,680 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:31:20,749 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:31:20,773 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:31:20,970 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:31:24,694 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:31:25,625 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:31:25,839 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:31:25,972 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:31:26,211 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:31:26,323 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:31:26,439 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:31:26,719 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:31:26,980 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:31:27,042 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:31:27,058 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:31:27,229 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:31:31,132 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:31:32,351 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:31:33,015 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:31:33,403 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:31:33,539 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:31:33,775 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:31:33,819 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:31:34,622 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:31:43,138 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:31:44,100 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:31:52,168 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:31:55,752 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:31:55,912 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:31:56,068 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:31:56,222 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:31:56,385 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:31:56,523 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:31:56,802 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:31:57,093 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:31:57,154 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:31:57,174 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:31:57,291 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:32:00,937 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:32:02,061 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:32:02,187 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:32:02,291 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:32:02,439 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:32:02,556 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:32:02,670 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:32:02,974 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:32:03,239 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:32:03,292 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:32:03,309 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:32:03,464 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:32:07,192 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:32:10,627 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:32:11,501 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:32:14,742 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:32:15,434 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:32:16,099 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:32:16,389 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:32:16,504 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:32:16,745 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:32:16,801 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:32:17,037 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:32:17,070 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:32:17,146 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:32:17,150 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:32:21,433 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:32:22,046 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:35:34,597 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:35:38,327 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:35:38,653 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:35:39,076 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:35:39,265 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:35:39,377 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:35:39,623 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:35:39,902 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:35:40,215 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:35:40,305 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:35:40,327 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:35:40,436 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:35:44,007 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:35:45,193 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:35:45,380 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:35:45,518 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:35:45,670 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:35:45,777 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:35:45,941 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:35:46,218 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:35:46,483 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:35:46,536 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:35:46,560 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:35:46,655 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:35:50,105 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:35:51,007 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:35:51,677 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:35:52,039 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:35:52,162 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:35:52,398 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:35:52,476 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:35:52,711 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:35:52,744 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:35:52,781 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:35:52,785 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:35:56,419 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:36:02,009 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:36:02,316 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:36:03,134 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:36:03,389 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:36:04,858 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:36:05,095 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:36:05,341 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:36:05,372 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:36:05,417 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:36:05,420 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:36:09,075 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:36:13,348 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:36:14,070 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:36:14,431 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:36:14,551 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:36:14,800 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:36:14,950 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:36:15,187 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:36:15,210 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:36:15,246 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:36:15,248 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:36:18,939 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:36:26,685 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:36:26,830 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:36:27,136 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:36:27,249 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:36:27,531 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:36:27,598 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:36:27,845 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:36:27,878 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:36:27,925 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:36:27,928 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:37:30,408 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:37:31,949 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:37:32,309 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:37:32,419 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:37:32,573 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:37:32,697 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:37:32,819 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:37:33,092 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:37:33,369 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:37:33,448 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:37:33,462 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:37:33,647 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:37:37,223 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:37:38,707 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:37:39,084 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:37:39,327 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:37:39,469 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:37:39,579 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:37:39,697 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:37:40,002 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:37:40,267 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:37:40,354 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:37:40,379 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:37:40,501 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:37:43,921 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:37:44,850 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:37:45,558 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:37:45,941 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:37:46,123 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:37:46,371 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:37:46,435 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:37:46,701 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:37:46,715 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:37:46,740 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:37:46,743 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:37:50,150 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:37:51,790 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:37:52,493 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:37:52,793 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:37:52,982 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:37:53,223 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:37:53,265 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:37:53,501 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:37:53,514 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:37:53,550 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:37:53,553 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:37:57,126 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:37:58,856 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:37:59,507 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:37:59,814 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:38:00,048 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:38:00,299 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:38:00,371 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:38:00,610 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:38:00,641 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:38:00,689 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:38:00,691 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:38:03,960 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:38:05,525 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:38:06,207 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:38:06,502 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:38:06,639 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:38:06,887 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:38:06,945 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:38:07,179 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:38:07,196 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:38:07,237 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:38:07,242 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:39:29,971 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:39:31,783 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:39:32,072 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:39:32,209 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:39:32,360 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:39:32,514 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:39:32,689 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:39:32,966 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:39:33,236 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:39:33,293 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:39:33,315 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:39:33,444 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:39:37,060 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:39:38,294 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:41:11,375 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:41:12,413 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:41:12,682 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:41:12,813 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:41:12,974 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:41:13,083 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:41:13,221 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:41:13,489 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:41:13,744 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:41:13,835 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:41:13,869 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:41:14,009 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:41:17,709 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:41:18,798 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:41:18,971 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:41:19,212 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:41:19,360 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:41:19,516 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:41:19,645 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:41:19,913 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:41:20,178 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:41:20,254 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:41:20,267 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:41:20,406 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:42:50,235 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:42:52,849 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:42:53,463 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:42:53,749 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:42:54,365 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:42:54,744 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:42:54,887 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:42:55,941 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:42:56,098 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:42:56,192 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:42:56,206 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:42:56,356 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:42:59,582 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:43:02,146 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:43:02,265 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:43:02,438 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:43:03,187 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:43:03,338 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:43:03,428 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:43:03,969 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:43:04,189 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:43:04,355 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:43:04,365 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:43:04,600 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:43:07,905 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:43:08,972 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:43:09,133 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:43:09,849 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:43:09,954 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:43:10,128 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:43:10,335 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:43:10,433 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:43:10,471 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:43:10,582 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:43:10,596 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:43:14,056 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:43:15,395 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:43:16,131 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:43:16,862 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:43:16,956 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:43:17,261 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:43:17,545 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:43:17,651 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:43:17,694 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:43:17,811 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:43:17,821 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:43:21,061 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:43:22,195 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:43:22,332 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:43:23,015 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:43:23,332 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:43:23,588 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:43:23,816 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:43:23,948 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:43:23,997 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:43:24,094 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:43:24,104 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:43:27,269 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:43:27,952 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:43:28,697 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:43:29,347 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:43:29,442 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:43:29,609 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:43:29,801 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:43:30,065 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:43:30,122 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:43:30,256 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:43:30,268 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:44:45,860 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:44:48,722 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:44:48,884 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:44:49,086 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:44:49,842 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:44:49,980 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:44:50,174 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:44:50,429 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:44:50,577 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:44:50,685 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:44:50,697 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:44:50,885 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:44:58,280 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:45:01,214 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:45:02,499 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:45:02,720 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:45:03,695 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:45:04,386 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:45:04,525 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:45:04,705 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:45:05,056 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:45:05,255 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:45:05,371 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:45:05,380 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:45:05,506 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:45:12,898 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:45:15,920 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:45:16,867 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:45:17,069 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:46:08,943 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:46:10,114 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:46:10,243 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:46:10,395 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:46:11,181 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:46:11,315 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:46:11,443 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:46:11,893 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:46:12,041 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:46:12,152 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:46:12,164 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:46:12,291 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:46:16,614 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:46:32,285 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:46:33,362 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:46:33,720 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:46:34,310 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:46:34,594 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:46:34,731 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:46:35,058 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:46:35,268 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:46:35,399 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:46:35,409 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:46:35,534 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:46:39,745 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:46:40,680 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:47:23,105 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:47:24,407 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:47:24,695 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:47:24,980 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:47:25,911 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:47:26,036 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:47:26,179 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:47:26,551 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:47:26,681 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:47:26,785 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:47:26,796 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:47:26,928 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:47:30,313 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:47:31,611 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:47:31,792 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:47:32,347 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:47:32,926 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:47:33,066 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:47:33,186 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:47:33,604 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:47:33,751 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:47:33,854 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:47:33,865 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:47:34,002 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:47:37,253 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:47:41,862 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:47:42,793 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:47:43,517 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:47:43,616 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:47:43,772 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:47:44,154 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:47:44,269 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:47:44,302 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:47:44,408 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:47:44,418 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:47:47,689 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:47:48,576 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:47:49,445 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:47:50,239 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:47:50,334 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:47:50,505 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:47:50,688 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:47:50,781 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:47:50,884 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:47:50,983 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:47:50,995 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:47:54,325 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:47:55,378 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:47:55,511 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:47:56,308 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:47:56,426 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:47:56,593 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:47:56,784 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:47:56,883 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:47:56,927 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:47:57,037 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:47:57,056 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:48:00,269 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:48:01,470 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:48:01,602 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:48:02,389 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:48:02,484 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:48:02,665 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:48:02,978 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:48:03,066 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:48:03,103 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:48:03,195 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:48:03,208 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:49:18,197 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:49:25,476 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:49:26,152 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:49:26,389 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:49:26,841 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:49:26,955 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:49:27,050 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:49:27,513 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:49:27,637 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:49:27,787 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:49:27,799 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:49:27,913 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:49:32,248 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:49:34,340 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:49:34,450 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:49:34,654 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:49:35,467 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:49:35,615 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:49:35,772 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:49:36,327 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:49:36,495 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:49:36,619 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:49:36,630 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:49:36,756 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:49:41,014 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:49:42,166 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:49:42,805 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:49:43,535 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:49:43,629 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:49:43,852 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:49:44,030 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:49:44,123 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:49:44,167 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:49:44,291 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:49:44,305 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:49:48,684 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:49:51,091 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:49:51,188 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:49:51,987 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:49:52,077 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:49:52,530 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:49:52,921 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:49:53,038 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:49:53,093 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:49:53,216 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:49:53,232 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:49:57,503 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:49:58,283 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:49:59,083 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:49:59,806 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:49:59,897 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:50:00,072 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:50:00,297 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:50:00,419 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:50:00,465 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:50:00,579 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:50:00,596 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:50:04,907 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:50:05,984 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:50:06,136 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:50:06,864 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:50:06,965 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:50:07,138 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:50:07,320 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:50:07,425 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:50:07,466 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:50:07,571 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:50:07,582 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:50:47,339 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:50:48,157 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:50:48,428 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:50:48,751 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:50:49,547 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:50:49,671 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:50:49,765 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:50:50,419 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:50:50,529 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:50:50,612 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:50:50,622 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:50:50,729 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:50:50,731 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:50:55,155 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:50:58,638 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:50:58,771 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:50:58,950 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:50:59,649 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:50:59,797 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:50:59,935 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:51:00,308 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:51:00,438 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:51:00,601 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:51:00,615 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:51:00,810 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:51:00,813 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:51:05,110 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:51:05,736 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:51:06,465 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:51:07,258 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:51:07,347 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:51:07,498 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:51:07,842 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:51:07,962 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:51:08,012 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:51:08,141 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:51:08,151 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:51:08,152 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:51:12,551 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:51:13,783 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:51:14,405 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:51:15,094 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:51:15,187 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:51:15,801 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:51:15,996 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:51:16,138 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:51:16,181 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:51:16,394 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:51:16,440 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:51:16,441 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:51:23,667 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:51:24,372 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:51:26,556 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:51:30,008 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:51:30,221 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:51:30,618 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:51:30,875 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:51:30,989 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:51:31,030 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:51:31,126 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:51:31,135 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:51:31,136 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:51:37,663 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:51:40,884 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:51:43,195 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:51:44,145 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:51:44,254 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:51:44,401 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:51:44,590 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:51:44,671 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:51:44,703 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:51:44,842 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:51:44,858 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:51:44,859 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:54:21,889 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:54:23,226 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:54:23,634 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:54:23,831 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:54:24,238 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:54:24,648 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:54:24,876 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:54:25,228 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:54:25,648 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:54:25,931 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:54:25,988 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:54:26,318 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:54:26,326 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:54:31,583 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:54:35,324 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:54:35,497 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:54:35,616 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:54:35,830 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:54:36,003 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:54:36,160 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:54:36,484 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:54:36,781 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:54:36,893 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:54:36,932 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:54:37,190 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:54:37,191 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:54:41,562 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:54:43,290 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:54:47,305 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:54:49,294 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:54:50,163 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 21:54:51,036 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 21:54:51,235 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 21:54:51,497 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 21:54:51,610 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 21:54:51,866 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 21:54:51,904 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 21:54:51,969 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 21:54:51,975 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 21:54:51,976 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:55:30,114 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:55:31,608 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:55:31,880 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:55:32,024 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:55:32,369 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:55:32,594 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:55:32,745 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:55:33,121 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:55:33,388 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:55:33,477 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:55:33,514 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:55:33,640 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:55:33,644 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:55:38,447 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:55:39,491 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:55:39,909 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:55:40,099 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:55:40,293 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:55:40,546 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:55:40,720 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:55:41,003 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:55:41,284 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:55:41,372 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:55:41,397 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:55:41,561 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:55:41,562 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:55:46,191 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:55:46,752 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:57:00,067 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:57:01,770 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:57:02,190 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:57:02,402 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 21:57:02,672 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 21:57:02,949 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 21:57:03,291 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 21:57:03,649 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 21:57:03,958 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 21:57:04,048 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 21:57:04,082 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 21:57:04,330 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 21:57:04,338 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 21:57:10,623 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 21:57:11,844 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 21:57:12,173 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 21:57:13,016 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 22:00:21,035 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:00:22,086 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:04:32,808 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:04:34,006 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:04:34,163 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 22:04:34,391 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 22:04:34,878 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 22:04:35,427 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 22:04:35,616 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 22:04:35,853 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 22:04:35,985 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 22:04:36,094 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 22:04:36,106 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 22:04:36,216 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 22:04:36,218 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 22:04:37,670 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:04:38,421 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:04:38,563 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 22:04:38,971 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 22:04:39,532 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 22:04:39,648 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 22:04:39,752 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 22:04:39,969 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 22:04:40,091 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 22:04:40,165 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 22:04:40,176 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 22:04:40,329 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 22:04:40,330 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 22:04:41,947 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:04:44,104 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:04:44,288 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 22:04:45,030 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 22:04:45,632 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 22:04:45,983 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 22:04:46,252 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 22:04:46,392 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 22:04:46,464 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 22:04:46,605 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 22:04:46,607 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 22:04:46,626 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 22:04:48,701 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:04:50,410 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:04:50,612 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 22:04:51,381 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 22:04:51,475 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 22:04:51,687 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 22:04:51,866 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 22:04:51,956 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 22:04:52,000 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 22:04:52,090 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 22:04:52,091 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 22:04:52,100 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 22:04:53,564 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:04:54,607 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:04:55,473 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 22:04:56,234 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 22:04:56,351 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 22:04:56,523 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 22:04:56,811 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 22:04:57,011 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 22:04:57,059 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 22:04:57,194 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 22:04:57,195 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 22:04:57,205 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 22:04:58,832 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:04:59,460 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:05:00,337 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 22:05:01,047 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 22:05:01,148 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 22:05:01,583 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 22:05:01,770 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 22:05:01,867 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 22:05:01,912 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 22:05:02,023 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 22:05:02,024 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 22:05:02,033 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 22:34:16,626 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:34:17,530 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:34:17,787 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 22:34:17,978 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 22:34:18,473 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 22:34:18,616 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 22:34:18,731 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 22:34:19,488 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 22:34:19,688 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 22:34:19,810 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 22:34:19,823 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 22:34:19,967 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 22:34:19,970 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 22:34:21,547 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:34:22,179 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:34:22,464 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-21 22:34:23,020 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-21 22:34:23,483 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-21 22:34:23,595 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-21 22:34:23,692 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-21 22:34:24,050 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-21 22:34:24,165 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-21 22:34:24,282 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-21 22:34:24,291 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-21 22:34:24,388 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-21 22:34:24,389 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 22:34:25,932 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:34:26,934 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:34:27,629 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 22:34:28,294 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 22:34:28,386 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 22:34:28,911 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 22:34:29,236 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 22:34:29,314 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 22:34:29,355 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 22:34:29,466 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 22:34:29,468 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 22:34:29,482 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 22:34:31,262 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:34:31,827 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:34:32,569 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 22:34:33,216 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 22:34:33,293 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 22:34:33,540 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 22:34:33,733 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 22:34:33,847 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 22:34:33,888 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 22:34:33,988 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 22:34:33,990 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 22:34:34,003 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 22:34:35,561 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:34:36,515 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:34:36,631 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 22:34:37,306 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 22:34:37,411 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 22:34:37,576 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 22:34:37,757 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 22:34:37,827 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 22:34:37,869 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 22:34:37,996 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 22:34:37,997 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 22:34:38,010 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-21 22:34:39,586 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-21 22:34:40,166 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-21 22:34:40,917 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-21 22:34:41,614 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-21 22:34:41,711 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-21 22:34:41,871 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-21 22:34:42,230 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-21 22:34:42,343 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-21 22:34:42,382 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-21 22:34:42,491 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-21 22:34:42,492 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-21 22:34:42,504 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-29 14:14:13,470 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-29 14:14:14,298 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-29 14:14:14,390 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-29 14:14:14,535 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-29 14:14:14,984 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-29 14:14:15,049 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-29 14:14:15,126 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-29 14:14:15,475 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-29 14:14:15,544 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-29 14:14:15,593 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-29 14:14:15,599 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-29 14:14:15,656 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-29 14:14:15,658 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-29 14:14:16,736 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-29 14:14:17,389 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-29 14:14:17,450 [main] STEPS.STEPS  - ********user_click_bank_manager_login********
+INFO    2024-08-29 14:14:17,570 [main] STEPS.STEPS  - ********click_Navigate_Customer********
+INFO    2024-08-29 14:14:18,141 [main] STEPS.STEPS  - ********user_enter_theFirst,LastName&Postal*********
+INFO    2024-08-29 14:14:18,204 [main] STEPS.STEPS  - ********user_click_add_customer_button********
+INFO    2024-08-29 14:14:18,268 [main] STEPS.STEPS  - ********user_navigate_to_open_account********
+INFO    2024-08-29 14:14:18,450 [main] STEPS.STEPS  - ********user_enter_theCustomerName********
+INFO    2024-08-29 14:14:18,519 [main] STEPS.STEPS  - ********user_enter_thecurrency********
+INFO    2024-08-29 14:14:18,567 [main] STEPS.STEPS  - ********user_click_process_button********
+INFO    2024-08-29 14:14:18,574 [main] STEPS.STEPS  - ********user_click_Alert_button********
+INFO    2024-08-29 14:14:18,622 [main] STEPS.STEPS  - ********user_navigate_to_customer_page********
+INFO    2024-08-29 14:14:18,622 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-29 14:14:19,665 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-29 14:14:20,227 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-29 14:14:20,293 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-29 14:14:20,941 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-29 14:14:20,990 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-29 14:14:21,168 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-29 14:14:21,359 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-29 14:14:21,411 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-29 14:14:21,432 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-29 14:14:21,480 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-29 14:14:21,481 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-29 14:14:21,486 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-29 14:14:22,515 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-29 14:14:23,117 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-29 14:14:23,180 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-29 14:14:23,803 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-29 14:14:23,856 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-29 14:14:23,966 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-29 14:14:24,108 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-29 14:14:24,164 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-29 14:14:24,184 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-29 14:14:24,235 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-29 14:14:24,236 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-29 14:14:24,241 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-29 14:14:25,310 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-29 14:14:25,878 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-29 14:14:25,932 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-29 14:14:26,552 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-29 14:14:26,603 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-29 14:14:26,726 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-29 14:14:26,849 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-29 14:14:26,903 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-29 14:14:26,923 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-29 14:14:26,970 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-29 14:14:26,971 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-29 14:14:26,976 [main] STEPS.STEPS  - ********closingBrowser********
+INFO    2024-08-29 14:14:27,977 [main] STEPS.STEPS  - ********LaunchingBrowser*********
+INFO    2024-08-29 14:14:28,505 [main] STEPS.STEPS  - ********open the URL*********
+INFO    2024-08-29 14:14:28,597 [main] STEPS.STEPS  - ********user_select_customer_login*********
+INFO    2024-08-29 14:14:29,255 [main] STEPS.STEPS  - ********user_select_the_name_*********
+INFO    2024-08-29 14:14:29,313 [main] STEPS.STEPS  - ********user_click_the_deposit_button********
+INFO    2024-08-29 14:14:29,447 [main] STEPS.STEPS  - ********user_enter_amount_that_need_to_be_deposited********
+INFO    2024-08-29 14:14:29,596 [main] STEPS.STEPS  - ********check_customerloginsr********
+INFO    2024-08-29 14:14:29,658 [main] STEPS.STEPS  - ********User click Deposit button*******
+INFO    2024-08-29 14:14:29,683 [main] STEPS.STEPS  - ********user_validate_amount********
+INFO    2024-08-29 14:14:29,748 [main] STEPS.STEPS  - ********user_navigate_to_home_login_pager********
+INFO    2024-08-29 14:14:29,749 [main] STEPS.STEPS  - ********page_title********
+INFO    2024-08-29 14:14:29,755 [main] STEPS.STEPS  - ********closingBrowser********
