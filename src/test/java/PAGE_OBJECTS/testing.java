@@ -22,7 +22,7 @@ public class testing {
 		Thread.sleep(3000);
 		lp=new LOGIN_PAGEss(driver);
 		
-		driver.get("WWW.GOOGLE.COM");
+		driver.get("WWW.AUTOMATION.COM);
 		Thread.sleep(2000);
 		
 		lp.select_customerPage();
